@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NIGL7y590SuROWr83BXsITVokG1GgcZd-Q&s" alt="Banner Miguel" width="100%">
+  <img src="https://i.ibb.co/FYM4Y9W/banner-miguel-espacial.png" alt="Banner Espacial Miguel Bueno Silva" width="100%">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
 </p>
