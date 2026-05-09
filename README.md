@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner Miguel Bueno Silva" width="100%">
+  <img src="banner" alt="Banner Miguel Bueno Silva" width="100%">
 </p>
 
 <p align="center">
