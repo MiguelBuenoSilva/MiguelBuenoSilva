@@ -16,8 +16,12 @@
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
 </p>
 
 <p align="center">
@@ -33,9 +37,16 @@
 
 ---
 
+---
+
 ### 🤝 Conecte-se comigo:
 <p align="left">
-<a href="https://www.linkedin.com/in/miguel-bueno-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Miguel Bueno Silva" height="30" width="40" /></a>
-<a href="https://instagram.com/miguel_2k5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguel_2k5" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/miguel-bueno-silva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Miguel" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/miguel_2k5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Miguel" height="30" width="40" />
+  </a>
 </p>
 
