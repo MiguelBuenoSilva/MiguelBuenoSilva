@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81c855a0-534d-44a6-8097-40081827e891" alt="Banner Miguel Bueno Silva" width="100%">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
 </p>
 
-# Olá 👋, sou Miguel Bueno Silva
+# Olá 👋, Sou Miguel Bueno Silva
 ### Estudante de Técnico em Desenvolvimento de Sistemas | 20 anos
 
 Sobre mim:
@@ -27,7 +23,7 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />&nbsp;<img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />&nbsp;<img height="155px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />&nbsp;<img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />&nbsp;<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
 </p>
 
 ---
