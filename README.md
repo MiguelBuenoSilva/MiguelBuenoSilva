@@ -19,10 +19,14 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Miguel" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" alt="Sequência de contribuições" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
 </p>
