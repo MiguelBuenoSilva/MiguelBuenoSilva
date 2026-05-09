@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/FYM4Y9W/banner-miguel-espacial.png" alt="Banner Espacial Miguel Bueno Silva" width="100%">
+  <img src="https://raw.githubusercontent.com/MiguelBuenoSilva/MiguelBuenoSilva/main/banner_miguel.png" alt="Banner Miguel Bueno Silva" width="100%">
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
 </p>
@@ -26,11 +27,11 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas Gerais de Miguel" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" alt="Sequência de contribuições" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
 </p>
 
 ---
