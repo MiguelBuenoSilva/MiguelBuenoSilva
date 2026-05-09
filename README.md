@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner" alt="Banner Miguel Bueno Silva" width="100%">
+  <img src="<img width="960" height="400" alt="banner" src="https://github.com/user-attachments/assets/670baa11-52e4-4874-b2bb-884638215bdc" />
+" alt="Banner Miguel Bueno Silva" width="100%">
 </p>
 
 <p align="center">
