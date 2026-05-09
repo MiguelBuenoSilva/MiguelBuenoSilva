@@ -1,12 +1,20 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NIGL7y590SuROWr83BXsITVokG1GgcZd-Q&s" alt="Banner Miguel" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
+</p>
+
 # Olá 👋, Eu sou Miguel Bueno Silva
 ### Estudante de Técnico em Desenvolvimento de Sistemas | 20 anos
 
 Sobre mim:
-Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac e estou focado em aprender e aplicar conceitos de lógica de programação, banco de dados e desenvolvimento de aplicações para criar soluções eficientes e inovadoras.
+Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac. Sou apaixonado por tecnologia e focado em aprender lógica de programação, banco de dados e desenvolvimento de aplicações.
 
 ---
 
-### 🛠 Línguas e Ferramentas:
+### 🛠 Top Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00517E?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -19,13 +27,11 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Miguel" />
-  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas Gerais de Miguel" />
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" alt="Sequência de contribuições" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" alt="Sequência de contribuições" />
 </p>
 
 ---
