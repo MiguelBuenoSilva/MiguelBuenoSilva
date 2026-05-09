@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81c855a0-534d-44a6-8097-40081827e891" alt="Banner Miguel Bueno Silva" width="100%">
+  <img src="banner.jpg" alt="Banner Miguel Bueno Silva" width="100%">
 </p>
 
 <p align="center">
