@@ -27,9 +27,6 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" alt="Sequência de contribuições" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
-</p>
 
 ---
 
