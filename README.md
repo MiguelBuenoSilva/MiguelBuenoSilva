@@ -23,14 +23,14 @@ Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
 ---
 
 ### 📊 Minhas Estatísticas:
 <p align="center">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
+  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelBuenoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /><img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelBuenoSilva&layout=compact&langs_count=7&theme=dark" /><img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBuenoSilva&theme=dark" />
 </p>
+
 
 ---
 
