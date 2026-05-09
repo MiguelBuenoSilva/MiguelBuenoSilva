@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd4372ed-3fcc-4020-99b4-d71d89fb5397?v=1" alt="Banner Landscape" width="100%">
+  <img src="https://github.com/user-attachments/assets/dd4372ed-3fcc-4020-99b4-d71d89fb5397?v=2" alt="Banner Landscape" width="100%">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
