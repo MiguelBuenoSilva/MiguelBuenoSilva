@@ -5,7 +5,7 @@
 ### Estudante de Técnico em Desenvolvimento de Sistemas | 20 anos
 
 Sobre mim:
-Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac. Sou apaixonado por tecnologia e focado em aprender lógica de programação, banco de dados e desenvolvimento de aplicações.
+Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac e estou focado em aprender lógica de programação, banco de dados e desenvolvimento de aplicações Web,Desktop e Mobile.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
