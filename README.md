@@ -1,6 +1,7 @@
 <p align="center">
- <img width="960" height="400" alt="banner" src="banner.jpg"  alt="Banner Miguel Bueno Silva" width="100%">/>
+ <img width="960" height="400" alt="banner" src="https://github.com/user-attachments/assets/8e5556bc-def4-4f49-b4f8-e188066eab02" alt="Banner Miguel Bueno Silva" width="100%">/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
