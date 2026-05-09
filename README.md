@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner Miguel Bueno Silva" width="100%">
+  <img src="banner.jpg" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" alt="MiguelBuenoSilva" />
+  <img src="https://komarev.com/ghpvc/?username=MiguelBuenoSilva&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 # Olá 👋, Sou Miguel Bueno Silva
 ### Estudante de Técnico em Desenvolvimento de Sistemas | 20 anos
 
