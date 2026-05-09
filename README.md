@@ -2,7 +2,7 @@
 ### Estudante de Técnico em Desenvolvimento de Sistemas | 20 anos
 
 Sobre mim:
-Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac. Sou apaixonado por tecnologia e estou focado em aprender e aplicar conceitos de lógica de programação, banco de dados e desenvolvimento de aplicações para criar soluções eficientes e inovadoras.
+Atualmente, tenho 20 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas** pelo Senac e estou focado em aprender e aplicar conceitos de lógica de programação, banco de dados e desenvolvimento de aplicações para criar soluções eficientes e inovadoras.
 
 ---
 
